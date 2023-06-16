@@ -41,6 +41,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  transition: 1s all ease;
 }
 
 .App-link {
